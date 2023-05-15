@@ -1,3 +1,5 @@
+extern crate ansi_term;
+extern crate rand;
 use ansi_term::Style;
 use rand::Rng;
 use std::env::args;
