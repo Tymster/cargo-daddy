@@ -1,1 +1,2 @@
 # cargo-daddy 👍
+blazingly sexy ⚡️
